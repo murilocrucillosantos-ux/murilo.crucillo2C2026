@@ -1,0 +1,40 @@
+/* Paleta: Vermelho, Preto e Branco */
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.7;
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    color: #111;
+}
+
+header h1 {
+    text-align: center;
+    color: #d90429;
+    font-size: 2.5rem;
+    font-weight: bold;
+    border-bottom: 2px solid #111;
+    padding-bottom: 15px;
+}
+
+article {
+    padding: 20px 0;
+    margin-bottom: 40px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+article h2 {
+    font-family: Helvetica, Arial, sans-serif;
+    color: #2b2d42;
+    margin-top: 0;
+}
+
+article img {
+    display: block;
+    margin: 20px auto 0 auto;
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    border-radius: 4px;
+}
